@@ -1,5 +1,7 @@
 ## Olá! Eu sou Andrew Adorno
 
+Desenvolvedor Fullstack na <a href="https://www.rrweb.com.br/">RR WEB</a>
+
 📱 Atualmente trabalho com Laravel, Node.js, React, React Native, Docker e Shopify <br/>
 
 <div style="display: inline_block"><br>
